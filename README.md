@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Abdul-momin24
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning webdevelopment
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me?? well here is my emaIL  khanabdulmomin24@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
 
 <!---
 Abdul-momin24/Abdul-momin24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
